@@ -2,9 +2,7 @@
 
 A sequence to sequence (Seq2Seq) model which translates English sentences into their corresponding French sentences.
 
-![English to French Translation using Seq2Seq](https://miro.medium.com/max/1400/1*wPqahJXFKt8RPPgZvETUpw.jpeg)
 
-![Neural Language Translation Architecture](https://miro.medium.com/max/1400/1*EPDNg1M45JXkASby_HiVOg.png)
 
 ## Overview
 
@@ -32,6 +30,3 @@ The dataset comprises 2 columns, one of which includes English words/sentences a
   <li>Matplotlib</li>
 </ul>
 
-## Acknowledgements
-
-For getting more datasets of distinct languages, refer to the following link: http://www.manythings.org/anki/
