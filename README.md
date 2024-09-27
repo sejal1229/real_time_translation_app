@@ -1,4 +1,4 @@
-# English-to-French-Language-Translation-using-Seq2Seq-Modeling
+# English-to-French-Language-Translation
 
 A sequence to sequence (Seq2Seq) model which translates English sentences into their corresponding French sentences.
 
